@@ -1,0 +1,5 @@
+Creare a variable in App.jsx
+    When a contact row is clicked store the selected contact id in a state variable
+Conditionally render ContactList or message based on selectedContactId
+move the selected contact id to ContactList 
+in contactrow use on click to set selectedcontactId when a row is clicled
